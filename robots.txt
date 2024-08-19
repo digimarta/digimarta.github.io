@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digimarta.github.io/sitemap.xml
